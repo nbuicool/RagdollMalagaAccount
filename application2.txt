@@ -1,8 +1,8 @@
 //appKey IronSource
-AppKeyBegin##{}##LastAppKey
-moregameBegin##{dd}##Lastmoregame
-SheireBegin##{sd}##Sheiregame
-UrlRateUsBegin##{dd}##LastUrlRateUs
+AppKeyBegin##{16dc83325}##LastAppKey
+moregameBegin##{https://play.google.com/store/apps/details?id=com.PlaygroundStudioGameWorr.PlaygroundRagdollGameWorr}##Lastmoregame
+SheireBegin##{https://play.google.com/store/apps/details?id=com.PlaygroundStudioGameWorr.PlaygroundRagdollGameWorr}##Sheiregame
+UrlRateUsBegin##{https://play.google.com/store/apps/details?id=com.PlaygroundStudioGameWorr.PlaygroundRagdollGameWorr}##LastUrlRateUs
 
 UrlFeedBackBegin##{", "}##LastUrlFeedBack
 UrlSuspendBegin##{", "}##LastUrlSuspend
