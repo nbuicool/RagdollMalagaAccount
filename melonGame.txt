@@ -1,0 +1,11 @@
+//appKey IronSource
+AppKeyBegin##{16dc8a635}##LastAppKey
+moregameBegin##{}##Lastmoregame
+SheireBegin##{}##Sheiregame
+UrlRateUsBegin##{}##LastUrlRateUs
+
+UrlFeedBackBegin##{", "}##LastUrlFeedBack
+UrlSuspendBegin##{", "}##LastUrlSuspend
+IsfreedBegin##{false}##LastIsfreed
+IsIsuspendBegin##{false}##LastIsIsuspend;
+ IsMoreGameBegin##{false}##LastIsMoreGame 
