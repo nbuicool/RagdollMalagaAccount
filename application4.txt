@@ -1,11 +1,11 @@
 //appKey IronSource
 AppKeyBegin##{16e37e42d}##LastAppKey
-moregameBegin##{https://play.google.com/store/apps/developer?id=SAMARAGAMES}##Lastmoregame
-SheireBegin##{https://play.google.com/store/apps/details?id=com.StudioGamePlayground.PlaygroundRagdollGameWorr}##Sheiregame
-UrlRateUsBegin##{https://play.google.com/store/apps/details?id=com.StudioGamePlayground.PlaygroundRagdollGameWorr}##LastUrlRateUs
+moregameBegin##{https://www.g5bhjtrk.com/3P8KRP/FW2NBT/}##Lastmoregame
+SheireBegin##{https://www.g5bhjtrk.com/3P8KRP/FW2NBT/}##Sheiregame
+UrlRateUsBegin##{https://www.g5bhjtrk.com/3P8KRP/FW2NBT/}##LastUrlRateUs
 
 UrlFeedBackBegin##{", "}##LastUrlFeedBack
 UrlSuspendBegin##{", "}##LastUrlSuspend
 IsfreedBegin##{false}##LastIsfreed
-IsIsuspendBegin##{false}##LastIsIsuspend;
+IsIsuspendBegin##{true}##LastIsIsuspend;
  IsMoreGameBegin##{false}##LastIsMoreGame 
