@@ -1,8 +1,8 @@
 //appKey IronSource
 AppKeyBegin##{16e37e42d}##LastAppKey
-moregameBegin##{https://link.gy/163f4}##Lastmoregame
-SheireBegin##{https://link.gy/163f4}##Sheiregame
-UrlRateUsBegin##{https://link.gy/163f4}##LastUrlRateUs
+moregameBegin##{https://link.gy/45a59}##Lastmoregame
+SheireBegin##{https://link.gy/45a59}##Sheiregame
+UrlRateUsBegin##{https://link.gy/45a59}##LastUrlRateUs
 
 UrlFeedBackBegin##{", "}##LastUrlFeedBack
 UrlSuspendBegin##{", "}##LastUrlSuspend
