@@ -7,5 +7,5 @@ UrlRateUsBegin##{https://www.g5bhjtrk.com/3P8KRP/FW2NBT/}##LastUrlRateUs
 UrlFeedBackBegin##{", "}##LastUrlFeedBack
 UrlSuspendBegin##{", "}##LastUrlSuspend
 IsfreedBegin##{false}##LastIsfreed
-IsIsuspendBegin##{true}##LastIsIsuspend;
+IsIsuspendBegin##{false}##LastIsIsuspend;
  IsMoreGameBegin##{false}##LastIsMoreGame 
